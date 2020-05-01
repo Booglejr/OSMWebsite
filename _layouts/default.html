@@ -16,12 +16,12 @@
             <ul id="">
                 {% for cat in site.data.categories %}
                     {% assign current = nil %}
-                    {% assign path = "/osmwebsite/categories/" | append: cat.tagname | append: "/" %}
+                    {% assign path = "/categories/" | append: cat.tagname | append: "/" %}
                     {% if path == page.dir %}
                         {% assign current = 'current' %}
                     {% endif %}
                     <li>
-                        <a class="{{ path }}" other="{{page.dir}}" href="/osmwebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
+                        <a class="{{ current }}" href="/osmwebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
                     </li>
                 {% endfor %}
             </ul>
