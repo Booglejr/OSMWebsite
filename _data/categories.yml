@@ -1,21 +1,21 @@
 #A
 #B
 #C
-- title: CSS
-  tagname: css
+- title: 'CSS'
+  tagname: 'css'
 #D
-- title: Database
-  tagname: database
+- title: 'Database'
+  tagname: 'database'
 #E
 #F
 #G
 #H
-- title: HTML
-  tagname: html
+- title: 'HTML'
+  tagname: 'html'
 #I
 #J
-- title: Javascript
-  tagname: javascript
+- title: 'Javascript'
+  tagname: 'javascript'
 #K
 #L
 #M
@@ -23,19 +23,19 @@
   tagname: misc
 #N
 - title: '.NET'
-  tagname: dotnet
+  tagname: 'dotnet'
 #O
 #P
-- title: PHP
-  tagname: php
+- title: 'PHP'
+  tagname: 'php'
 #Q
 #R
-- title: React
-  tagname: react
-- title: Ruby
-  tagname: ruby
-- title: Rust
-  tagname: rust
+- title: 'React'
+  tagname: 'react'
+- title: 'Ruby'
+  tagname: 'ruby'
+- title: 'Rust'
+  tagname: 'rust'
 #S
 #T
 #U
