@@ -21,7 +21,7 @@
                         {% assign current = 'current' %}
                     {% endif %}
                     <li>
-                        <a class="{{ current }}" href="/osmwebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
+                        <a class="{{ path }}" other="{{page.dir}}" href="/osmwebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
                     </li>
                 {% endfor %}
             </ul>
