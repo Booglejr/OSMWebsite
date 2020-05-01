@@ -1,6 +1,6 @@
 language: ruby
 rvm:
   - 2.3
-script: "bundle exec jekyll build"
+script: "bundle exec jekyll build --trace -V"
 
 after-script: "ls; cd _site; ls; ls *"
