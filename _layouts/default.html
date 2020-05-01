@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>{{ site.title}} | {{page.title}}</title>
+    <link rel="stylesheet" href="/default.css">
+    <link rel="icon" href="./pictures/favicon.png">
+</head>
+<body>
+<div class="page">
+    <div class="header">
+        <h2>
+            <a href="{{site.url}}">{{site.title}}</a>
+        </h2>
+    </div>
+    <div class="content-wrapper">
+        <div class="sidebar">
+            <ul id="">
+                {% for cat in site.data.categories %}
+                    {% assign current = nil %}
+                    {% assign path = "/categories/" | append: cat.tagname | append: "/" %}
+                    {% if path == page.dir %}
+                        {% assign current = 'current' %}
+                    {% endif %}
+                    <li>
+                        <a class="{{ current }}" href="/categories/{{cat.tagname}}/">{{cat.title}}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="content">
+            {{content}}
+        </div>
+        <div class="space-magic">
+
+        </div>
+    </div>
+    <div class="footer">All text CC-BY-SA & code AGPL by J. 'Booglejr' W. unless otherwise noted.</div>
+</div>
+</body>
+</html>
