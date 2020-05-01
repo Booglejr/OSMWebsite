@@ -28,12 +28,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://booglejr.github.io/osmwebsite/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  booglejr
+future: true
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-datapage-generator
 
+safe : true
 
 page_gen-dirs: true
 
