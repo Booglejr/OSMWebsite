@@ -68,7 +68,7 @@ a{
 .space-magic{
     flex:1;
     min-width:0;
-    background-image: url("/OSMWebsite/pictures/b09.gif");
+    background-image: url("/osmwebsite/pictures/b09.gif");
     background-repeat: repeat-y;
     background-size: 100% auto;
 }

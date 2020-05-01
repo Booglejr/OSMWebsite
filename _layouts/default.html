@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>{{ site.title}} | {{page.title}}</title>
-    <link rel="stylesheet" href="/OSMWebsite/default.css">
+    <link rel="stylesheet" href="/osmwebsite/default.css">
     <link rel="icon" href="./pictures/favicon.png">
 </head>
 <body>
@@ -16,12 +16,12 @@
             <ul id="">
                 {% for cat in site.data.categories %}
                     {% assign current = nil %}
-                    {% assign path = "/OSMWebsite/categories/" | append: cat.tagname | append: "/" %}
+                    {% assign path = "/osmwebsite/categories/" | append: cat.tagname | append: "/" %}
                     {% if path == page.dir %}
                         {% assign current = 'current' %}
                     {% endif %}
                     <li>
-                        <a class="{{ current }}" href="/OSMWebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
+                        <a class="{{ current }}" href="/osmwebsite/categories/{{cat.tagname}}/">{{cat.title}}</a>
                     </li>
                 {% endfor %}
             </ul>
