@@ -99,3 +99,33 @@
   url: 'https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index'
   description: 'An overview of ways to format pesky axios calls.'
   submitter: Booglejr
+
+- name: Quick Start to React Router Dom
+  tags: ['react-native', 'react']
+  url: 'https://reacttraining.com/react-router/web/guides/quick-start'
+  description: 'Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering--so take your pick!'
+  submitter: Booglejr
+
+- name: Introduction to React Native
+  tags: ['react-native']
+  url: 'https://reactnative.dev/docs/getting-started'
+  description: 'Introduction to React Native.'
+  submitter: Booglejr
+
+- name: Expo
+  tags: ['react-native']
+  url: 'https://docs.expo.io/'
+  description: 'Expo is a framework and a platform for universal React applications.'
+  submitter: Booglejr
+
+- name: Pexels
+  tags: ['misc', 'css']
+  url: 'https://www.pexels.com/'
+  description: 'The best free stock photos & videos shared by talented creators.'
+  submitter: Booglejr
+
+- name: Pixabay
+  tags: ['misc', 'css']
+  url: 'https://pixabay.com/'
+  description: 'Stunning free images & royalty free stock.'
+  submitter: Booglejr
