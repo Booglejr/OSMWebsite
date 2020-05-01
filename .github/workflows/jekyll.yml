@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy GIT Update
 on: [push]
 jobs:
   build-and-deploy:
