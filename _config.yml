@@ -37,7 +37,7 @@ plugins:
 
 page_gen:
   - index_files: true
-    data: 'categories'
+    data: 'OSMWebsite/categories'
     template: 'category'
     name: 'tagname'
     dir: 'categories'
