@@ -37,10 +37,10 @@ plugins:
 
 page_gen:
   - index_files: true
-    data: 'OSMWebsite/categories'
+    data: 'categories'
     template: 'category'
     name: 'tagname'
-    dir: 'OSMWebsite/categories'
+    dir: 'categories'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
