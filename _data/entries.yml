@@ -2,130 +2,129 @@
   tags: ['react']
   url: 'https://reactjs.org/docs/getting-started.html'
   description: 'A object oriented langauge for building Single Page Applications on the frontend.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Jekyll
   tags: ['ruby', 'html']
   url: 'https://jekyllrb.com/'
   description: 'Transform your plain text into static websites and blogs.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: PHP OOP - Classes and Objects
   tags: ['php']
   url: 'https://www.w3schools.com/php/php_oop_classes_objects.asp'
   description: 'A basic guide of applying Object Oriented Programming principles to php.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: 418 I'm a teapot
   tags: ['misc']
   url: 'https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418'
   description: The HTTP 418 I'm a teapot client error response code indicates that the server refuses to brew coffee because it is, permanently, a teapot.
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Composer
   tags: ['php']
   url: 'https://getcomposer.org/'
   description: 'A Dependency Manager for PHP.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: How to fetch data in with React Hooks?
   tags: ['react']
   url: 'https://www.robinwieruch.de/react-hooks-fetch-data'
   description: 'A tutorial on how to fetch data in React with Hooks from third-party APIs.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: .NET documentation
   tags: ['dotnet']
   url: 'https://docs.microsoft.com/en-us/dotnet/'
   description: 'Learn to use .NET to create applications on any platform using C#, Visual Basic, and F#. Browse API reference, sample code, tutorials, and more.'
-  submitter: Rootyjr
-
+  submitter: Booglejr
 - name: Entity Framework Core
   tags: ['dotnet', 'database']
   url: 'https://docs.microsoft.com/en-us/ef/core/'
   description: 'Entity Framework (EF) Core is a lightweight, extensible, open source and cross-platform version of the popular Entity Framework data access technology.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Google Fonts
   tags: ['css']
   url: 'https://fonts.google.com/'
   description: 'Google Fonts is a library of 988 free licensed font families, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS.'
-  submitter: Rootyjr
-
+  submitter: Booglejr
+  
 - name: W3Schools CSS Tutorial
   tags: ['css']
   url: 'https://www.w3schools.com/css/default.asp'
   description: 'CSS is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Rust
   tags: ['rust']
   url: 'https://www.rust-lang.org/learn'
   description: 'A systems language pursuing the trifecta: safety, concurrency, and speed.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: How to use Rust Warp
   tags: ['rust']
   url: 'https://www.steadylearner.com/blog/read/How-to-use-Rust-Warp'
   description: 'Learn how to make a web project with Rust.'
-  submitter: Rootjyr
+  submitter: Booglejr
 
 - name: Rust and WebAssembly
   tags: ['rust', 'javascript']
   url: 'https://rustwasm.github.io/docs/book/'
   description: 'This small book describes how to use Rust and WebAssembly together.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Diesel.rs
   tags: ['rust', 'database']
   url: 'http://diesel.rs/'
   description: 'Diesel is a Safe, Extensible ORM and Query Builder for Rust.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Reactstrap
   tags: ['react', 'css']
   url: 'http://reactstrap.github.io/'
   description: 'Easy to use React Bootstrap 4 components.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: How to restrict your Routes and Links in React.js now with Hooks
   tags: ['react']
   url: 'https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks-12b395c1a2fe'
   description: 'An example how to create custom routes and links from the react-router-dom package and extract your conditionals.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Axios Cheat Sheet
   tags: ['react', 'javascript']
   url: 'https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index'
   description: 'An overview of ways to format pesky axios calls.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Quick Start to React Router Dom
   tags: ['react-native', 'react']
   url: 'https://reacttraining.com/react-router/web/guides/quick-start'
   description: 'Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering--so take your pick!'
-  submitter: Rootjyr
+  submitter: Booglejr
 
 - name: Introduction to React Native
   tags: ['react-native']
   url: 'https://reactnative.dev/docs/getting-started'
   description: 'Introduction to React Native.'
-  submitter: Rootyjr
+  submitter: Booglejr
 
 - name: Expo
   tags: ['react-native']
   url: 'https://docs.expo.io/'
   description: 'Expo is a framework and a platform for universal React applications.'
-  submitter: Rootyjr
-
+  submitter: Booglejr
+  
 - name: Pexels
   tags: ['misc', 'css']
   url: 'https://www.pexels.com/'
   description: 'The best free stock photos & videos shared by talented creators.'
-  submitter: Rootyjr
-
+  submitter: Booglejr
+  
 - name: Pixabay
   tags: ['misc', 'css']
   url: 'https://pixabay.com/'
   description: 'Stunning free images & royalty free stock.'
-  submitter: Rootyjr
+  submitter: Booglejr
