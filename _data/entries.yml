@@ -39,6 +39,13 @@
   url: 'https://docs.microsoft.com/en-us/dotnet/'
   description: 'Learn to use .NET to create applications on any platform using C#, Visual Basic, and F#. Browse API reference, sample code, tutorials, and more.'
   submitter: Booglejr
+
+- name: Identity documentation
+  tags: ['dotnet']
+  url: 'http://docs.identityserver.io/'
+  description: 'Epic documentation about identity server that will blow your socks off.'
+  submitter: Booglejr
+  
 - name: Entity Framework Core
   tags: ['dotnet', 'database']
   url: 'https://docs.microsoft.com/en-us/ef/core/'
